@@ -1,0 +1,1 @@
+This TSQL code works on AdventureWorks2019 database.
